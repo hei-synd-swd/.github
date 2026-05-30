@@ -26,7 +26,7 @@ Here are the repositories available in this organization
 ### Model-Driven Software Engineering (MDSE)
 
 <p align="center">
-  <img src="https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courss/mdse.svg" alt="Model-Driven Software Engineering Logo" width="150">
+  <img src="https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/mdse.svg" alt="Model-Driven Software Engineering Logo" width="150">
 </p>
 
 - [mdse-docs](https://github.com/hei-synd-swd/mdse-docs): This repository contains all the course materials, including lecture slides, exercises, laboratory and projects documents.
