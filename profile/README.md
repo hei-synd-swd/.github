@@ -15,8 +15,9 @@ Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://s
 Here are the repositories available in this organization
 
 ### Advanced Programming (AProg)
-
+<p align="center">
 ![Advanced Programming Logo](https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/aprog.svg)
+</p>
 
 - [aprog-docs](https://github.com/hei-synd-swd/aprog-docs): This repository contains all the course materials, including lecture slides, exercises, laboratory and projects documents.
 - [aprog-labs](https://github.com/hei-synd-swd/aprog-labs): This repository contains additional resources for the laboratories and exercises.
@@ -24,7 +25,9 @@ Here are the repositories available in this organization
 
 ### Model-Driven Software Engineering (MDSE)
 
+<p align="center">
 ![Model-Driven Software Engineering Logo](https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/mdse.svg)
+</p>
 
 - [mdse-docs](https://github.com/hei-synd-swd/mdse-docs): This repository contains all the course materials, including lecture slides, exercises, laboratory and projects documents.
 - [mdse-labs](https://github.com/hei-synd-swd/mdse-labs): This repository contains additional resources for the laboratories and exercises.
