@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./../img/hei-en.png" alt="HEI-Vs Logo" width="350">
+  <img src="./../img/hei-en.pnghttps://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/hei-en.svg" alt="HEI-Vs Logo" width="350">
 </p>
 
 # HEI-Vs Engineering School - SwD Software Development
