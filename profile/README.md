@@ -16,7 +16,7 @@ Here are the repositories available in this organization
 
 ### Advanced Programming (AProg)
 <p align="center">
-![Advanced Programming Logo](https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/aprog.svg)
+  <img src="https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/aprog.svg" alt="Advanced Programming Logo" width="150">
 </p>
 
 - [aprog-docs](https://github.com/hei-synd-swd/aprog-docs): This repository contains all the course materials, including lecture slides, exercises, laboratory and projects documents.
@@ -26,7 +26,7 @@ Here are the repositories available in this organization
 ### Model-Driven Software Engineering (MDSE)
 
 <p align="center">
-![Model-Driven Software Engineering Logo](https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courses/mdse.svg)
+  <img src="https://github.com/hei-templates/hei-synd-logos/blob/a47918f96647efdc10d30127b5e194b1f1005cff/courss/mdse.svg" alt="Model-Driven Software Engineering Logo" width="150">
 </p>
 
 - [mdse-docs](https://github.com/hei-synd-swd/mdse-docs): This repository contains all the course materials, including lecture slides, exercises, laboratory and projects documents.
